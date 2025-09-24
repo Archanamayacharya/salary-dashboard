@@ -18,12 +18,10 @@ An interactive **Streamlit** dashboard to visualize salary trends across differe
 
 1. **Clone the repository:**
 
-```bash
 git clone https://github.com/Archanamayacharya/salary-dashboard.git
 cd salary-dashboard
 Install dependencies:
 
-bash
 Copy code
 pip install streamlit pandas matplotlib seaborn
 Run the Streamlit app:
@@ -36,7 +34,7 @@ A permanent live version of this app is hosted on Streamlit Cloud:
 https://salary-dashboard-hsat6hnqujrh27jegr2jq7.streamlit.app/
 
 Sample Dataset
-The dashboard uses a sample dataset with the following columns:
+The dashboard uses a dataset with the following columns:
 
 employee_residence – Country of the employee
 
