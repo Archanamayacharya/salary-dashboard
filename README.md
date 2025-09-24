@@ -33,7 +33,7 @@ Copy code
 streamlit run app.py
 Live Dashboard
 A permanent live version of this app is hosted on Streamlit Cloud:
-https://salary-dashboard-mrotrttexsgrrzxjr3vusr.streamlit.app/
+https://salary-dashboard-hsat6hnqujrh27jegr2jq7.streamlit.app/
 
 Sample Dataset
 The dashboard uses a sample dataset with the following columns:
@@ -42,7 +42,10 @@ employee_residence – Country of the employee
 
 salary_in_usd – Salary in USD
 
-experience_level – Junior, Mid, Senior
+experience_level – EN – Entry-level
+                   MI – Mid-level
+                   SE – Senior-level
+                   EX – Executive-level
 
 remote_ratio – Percentage of remote work
 
