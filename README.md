@@ -22,12 +22,9 @@ git clone https://github.com/Archanamayacharya/salary-dashboard.git
 cd salary-dashboard
 Install dependencies:
 
-Copy code
 pip install streamlit pandas matplotlib seaborn
 Run the Streamlit app:
 
-bash
-Copy code
 streamlit run app.py
 Live Dashboard
 A permanent live version of this app is hosted on Streamlit Cloud:
